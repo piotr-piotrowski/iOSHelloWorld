@@ -98,7 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				F7C02C011E040E3300EE687A /* AppDelegate.swift */,
-				F7C02C031E040E3300EE687A /* ViewController.swift */,
+				F7C02C2F1E04140D00EE687A /* ViewControllers */,
 				F7C02C051E040E3300EE687A /* Main.storyboard */,
 				F7C02C081E040E3300EE687A /* Assets.xcassets */,
 				F7C02C0A1E040E3300EE687A /* LaunchScreen.storyboard */,
@@ -123,6 +123,14 @@
 				F7C02C231E040E3300EE687A /* Info.plist */,
 			);
 			path = "Hello WorldUITests";
+			sourceTree = "<group>";
+		};
+		F7C02C2F1E04140D00EE687A /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				F7C02C031E040E3300EE687A /* ViewController.swift */,
+			);
+			name = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
